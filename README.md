@@ -15,11 +15,11 @@ __Males commit significantly more crimes than females__
 ![MyFigure](003_Gender%20distribution%20of%20crimes%20across%20age%20group.png)
 
 ![MyFigure](004_Gender%20distribution%20of%20crimes.png)
-* Data missing for :Male Other drug offences, Female Bribery, Female Other drug offences, Female Public security offences, Female Regulatory driving offences 
+* Data missing for: Male Other drug offences, Female Bribery, Female Other drug offences, Female Public security offences, Female Regulatory driving offences 
 
+![MyFigure](thumbnail.png)
 
-![](thumbnail.png)
-__Male to female ration is highest in sexual offences__
+__Male to female ratio is highest in sexual offences__
 
 ## Gender Distribution of Sexual Offences
 
@@ -32,4 +32,7 @@ __Males and females in the age group of 15-19 are more likely to commit sex crim
 __Females in the age group 15-19 are most likely to be victims, whereas most of the male victims are 10-14 years old__
 
 
-## Considering the age groups of the sex offenders and victims (and other crimes), more awareness and intervention stratergies are required, especially at schools.
+## Considering the age groups of the sex offenders and victims (and other crimes), more awareness and intervention strategies are required, especially at schools.
+
+Contributors:
+Vindhya Nawaratne, Pradeep Rajasekhar, Akira Wang, Rylan Gan, Irabella Lin, Belle Lim 
