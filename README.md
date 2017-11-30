@@ -4,4 +4,5 @@ The data that we used can be found on the Research Platforms github repository [
 
 
 # Crimes
-![MyFigure] (https://github.com/Vin-n/OpenRes2017/blob/master/output_10_1.png)
+<img src=https://github.com/Vin-n/OpenRes2017/blob/master/output_10_1.png width ='50%>
+
