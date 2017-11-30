@@ -4,7 +4,7 @@ The data that we used can be found on the Research Platforms github repository [
 
 ![MyFigure](output_10_1.png)
 
-![MyFigure](Australia Crime stats.png) 
+![MyFigure](Australia%20Crime%20stats.png) 
 
 ![MyFigure](002_Total Crimes_gender_pie_chart.png)
 
