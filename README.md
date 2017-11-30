@@ -4,7 +4,11 @@ The data that we used can be found on the Research Platforms github repository [
 
 ![MyFigure](001_Australia%20Crime%20stats.png)
 
+More crime happens in the cities. Possibly correlated with population density.
+
 ![MyFigure](002_Total%20Crimes_gender_pie_chart.png)
+
+Males commit significantly more crimes than females
 
 ## Gender Distribution of Crimes
 
