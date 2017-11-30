@@ -3,12 +3,10 @@
 The data that we used can be found on the Research Platforms github repository [OpenRes](https://github.com/Vin-n/OpenRes/tree/master/Event%20Data/Victorian_Crime_Statistics). 
 
 ![MyFigure](001_Australia Crime stats.png)
-![MyFigure](![MyFigure](001_Australia Crime stats.png)
-
 
 ## Gender Distribution of Crimes
 
-![MyFigure](![MyFigure](003_Gender distribution of crimes across age group.png)
+![MyFigure](003_Gender distribution of crimes across age group.png)
 
 ## Gender Distribution of Crimes per Age Group
 
