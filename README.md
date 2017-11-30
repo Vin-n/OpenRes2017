@@ -15,7 +15,7 @@ __Males commit significantly more crimes than females__
 ![MyFigure](003_Gender%20distribution%20of%20crimes%20across%20age%20group.png)
 
 ![MyFigure](004_Gender%20distribution%20of%20crimes.png)
-* Data missing for: Male Other drug offences, Female Bribery, Female Other drug offences, Female Public security offences, Female Regulatory driving offences 
+*Data missing for: Male Other drug offences, Female Bribery, Female Other drug offences, Female Public security offences, Female Regulatory driving offences 
 
 ![MyFigure](thumbnail.png)
 
