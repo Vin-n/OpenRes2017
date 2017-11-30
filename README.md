@@ -8,7 +8,7 @@ The data that we used can be found on the Research Platforms github repository [
 
 ## Gender Distribution of Crimes per Age Group
 
-!(output_34_1.png)
+![MyFigure](output_34_1.png)
 
 ## Gender Distribution of Sex Offenders per Age Group
 
