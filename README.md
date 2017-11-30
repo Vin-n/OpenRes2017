@@ -1,9 +1,6 @@
-# OpenRes
+# Crimes
 
 The data that we used can be found on the Research Platforms github repository [OpenRes](https://github.com/Vin-n/OpenRes/tree/master/Event%20Data/Victorian_Crime_Statistics). 
-
-
-# Crimes
 
 ## Gender Distribution of Crimes
 
@@ -11,7 +8,7 @@ The data that we used can be found on the Research Platforms github repository [
 
 ## Gender Distribution of Crimes per Age Group
 
-![MyFigure](output_34_1.png)
+!(output_34_1.png)
 
 ## Gender Distribution of Sex Offenders per Age Group
 
