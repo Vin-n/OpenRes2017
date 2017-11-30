@@ -27,4 +27,4 @@ __Males and females in the age group of 15-19 are more likely to commit sex crim
 ![MyFigure](006_Gender%20distribution%20of%20victim_age%20group.png)
 __Females in the age group 15-19 are most likely to be victims, whereas most of the male victims are 10-14 years old__
 
-<font color=red>##Considering the age groups of the sex offenders and victims (and other crimes), more awareness and intervention stratergies are required, especially at schools. </font>
+<font color=red>## Considering the age groups of the sex offenders and victims (and other crimes), more awareness and intervention stratergies are required, especially at schools. </font>
