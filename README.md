@@ -33,8 +33,8 @@ __Females in the age group 15-19 are most likely to be victims, whereas most of 
 
 
 ## Considering the age groups of the sex offenders and victims (and other crimes), more awareness and intervention strategies are required, especially at schools.
- 
- 
- 
+  
+  
+  
 Contributors:
 Vindhya Nawaratne, Pradeep Rajasekhar, Akira Wang, Rylan Gan, Irabella Lin, Belle Lim 
