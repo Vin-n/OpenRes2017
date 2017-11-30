@@ -17,7 +17,9 @@ __Males commit significantly more crimes than females__
 ![MyFigure](004_Gender%20distribution%20of%20crimes.png)
 * Data missing for :Male Other drug offences, Female Bribery, Female Other drug offences, Female Public security offences, Female Regulatory driving offences 
 
+
 ![](thumbnail.png)
+__Male to female ration is highest in sexual offences__
 
 ## Gender Distribution of Sexual Offences
 
