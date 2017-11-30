@@ -1,6 +1,8 @@
-# Gender distribution across sexual offences
+# Gender distribution across sexual offences (2012-2016)
 
 The data that we used can be found on the Research Platforms github repository [OpenRes](https://github.com/Vin-n/OpenRes/tree/master/Event%20Data/Victorian_Crime_Statistics). 
+
+## Crime statistics in Victoria between 2012-2016 (geographical distribution and gender ratio)
 
 ![MyFigure](001_Australia%20Crime%20stats.png)
 
