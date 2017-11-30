@@ -2,8 +2,6 @@
 
 The data that we used can be found on the Research Platforms github repository [OpenRes](https://github.com/Vin-n/OpenRes/tree/master/Event%20Data/Victorian_Crime_Statistics). 
 
-![MyFigure](output_10_1.png)
-
 ![MyFigure](Australia%20Crime%20stats.png) 
 
 ![MyFigure](002_Total%20Crimes_gender_pie_chart.png)
