@@ -5,7 +5,7 @@ The data that we used can be found on the Research Platforms github repository [
 
 # Crimes
 
-![MyFigure] (output_10_1.png)
+![MyFigure] (./output_10_1.png)
 
 
 
