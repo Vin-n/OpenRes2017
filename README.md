@@ -37,4 +37,4 @@ __Females in the age group 15-19 are most likely to be victims, whereas most of 
   
   
 Contributors:
-Vindhya Nawaratne(vindhya_naw@yahoo.com.au), Pradeep Rajasekhar, Akira Wang(akira.t.wang@gmail.com), Rylan Gan(rylangan@gmail.com), Irabella Lin, Belle Lim 
+Vindhya Nawaratne, Pradeep Rajasekhar, Akira Wang(akira.t.wang@gmail.com), Rylan Gan(rylangan@gmail.com), Irabella Lin, Belle Lim 
